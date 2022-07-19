@@ -1,0 +1,91 @@
+.nav {
+    justify-content: end;
+}
+
+.icon {
+    background-color: #202c33;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+.rounded-circle {
+    width: 45px;
+    margin: 10px;
+   
+}
+
+#search {
+    background-color: #0a1014;
+    padding: 10px;
+}
+
+.box {
+    border: 1px solid rgba(128, 128, 128, 0);
+    border-radius: 10px;
+    background-color: #202c33;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+.box p {
+    margin: 5px 0;
+}
+
+#dm {
+    background-color: #202c33;
+}
+
+#dm .chat {
+    background-color: #0a1014;
+    color: white;
+    display: flex;
+    align-items: center;
+    margin-bottom: 2px;
+}
+
+#dm .rounded-circle {
+    width: 45px;
+    height: 45px;
+    object-fit: cover;
+}
+
+.openchat {
+    background-color: #202c33;
+    color: white;
+    display: flex;
+}
+
+.openchat .rounded-circle {
+    width: 45px;
+    height: 45px;
+}
+
+.contato {
+    display: flex;
+    flex-direction: column;
+}
+
+#dmbar {
+    background-color: #202c33;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.dmicons {
+    padding: 0px 15px;
+}
+
+.txt {
+    padding: 5px;
+    border: 1px solid rgba(128, 128, 128, 0);
+    border-radius: 10px;
+    background-color: #414547;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+
